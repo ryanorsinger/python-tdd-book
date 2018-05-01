@@ -1,0 +1,12 @@
+# django and python ignores 
+db.sqlite3
+geckodriver.log
+virtualenv
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.iml
+.idea/
