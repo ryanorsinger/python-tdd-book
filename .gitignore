@@ -9,4 +9,5 @@ Thumbs.db
 
 # Editor
 *.iml
-.idea/
+.idea/__pychache__
+*.pyc
